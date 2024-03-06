@@ -1,0 +1,2 @@
+A recopier dans start de package.json : 
+"start": "nodemon ./bin/www",
